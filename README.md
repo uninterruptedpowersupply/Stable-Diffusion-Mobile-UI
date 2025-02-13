@@ -18,6 +18,10 @@ Add support for Stable Diffusion 3 and Flux when consumer hardware can support t
 
 Allow users to paste numbers with commas in the custom resolution menu,
 
+Add vae and lora support,
+
+fix the hight resource requiremnts of SDXL ( 7-6.7gb vram at 512x512 )
+
 High memory usage at resolutions greater than 768x768,
 
 Make it ios compatible.
@@ -42,6 +46,15 @@ steps 20
 ![Screenshot 2025-02-13 175704](https://github.com/user-attachments/assets/23dd1ace-6b52-4a82-a975-12db7c11e244)
 ![Screenshot 2025-02-13 175742](https://github.com/user-attachments/assets/adce4986-c91d-4863-a3bb-e66c172e2649)
 ![image](https://github.com/user-attachments/assets/73180a6e-aa52-47f7-97d0-54a822a9de65)
+
+STABLE DIFFUSION MOBLE UI DOES NOT SUPPORT CUSTOM VAE AND THE MODEL DOES NOT HAVE A PRE
+
+----------------------------------------------------------------------------------------------------------------
+Models used
+----------------------------------------------------------------------------------------------------------------
+SD 1.5 - https://civitai.com/models/25694/epicrealism
+SDXL - https://civitai.com/models/833294?modelVersionId=1116447
+
 
 ----------------------------------------------------------------------------------------------------------------
 SPECIAL THANKS TO 
