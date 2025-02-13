@@ -1,14 +1,14 @@
 # Stable-Diffusion-Mobile-UI
 For generating images using Stable Diffusion 1.5 with as less as 3gb Vram
-----------------------------------------------------------------------------------------------------------------
-IT CAN GENERATE NSFW, GORE AND OTHER DISTURBING MATERIAL PLEASE USE WITH CAUTION
-----------------------------------------------------------------------------------------------------------------
-To do 
 
+#IT CAN GENERATE NSFW, GORE AND OTHER DISTURBING MATERIAL PLEASE USE WITH CAUTION
+
+To do 
+----------------------------------------------------------------------------------------------------------------
 Fix crash after an image of 512x512 or higher is saved
 Make it an apk
 ----------------------------------------------------------------------------------------------------------------
-How to use (Wundows only might work woth Linux)
+How to use (Windows only might work woth Linux)
 run the RUN_FIRST_TIME_ONLY_.bat
 Then run run.bat
 ----------------------------------------------------------------------------------------------------------------
