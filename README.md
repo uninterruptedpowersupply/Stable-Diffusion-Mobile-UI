@@ -9,7 +9,7 @@ To-Do List
 -------------------------------------------------------------------------------------------------------------------
 ~~Fix crash after saving an image of 512x512 or higher resolution.~~,
 ~~fix requirements file,~~
-~~Test SDXL,~~(vae issue)
+~~Test SDXL,~~
 create an exe,
 Create an APK.
 
