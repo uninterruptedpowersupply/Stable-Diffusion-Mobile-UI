@@ -8,7 +8,7 @@ Warning: This application can generate NSFW, gore, and other disturbing material
 To-Do List
 -------------------------------------------------------------------------------------------------------------------
 ~~Fix crash after saving an image of 512x512 or higher resolution.~~,
-fix requirements file
+~~fix requirements file,~~
 create an exe,
 Create an APK.
 
