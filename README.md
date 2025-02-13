@@ -7,18 +7,18 @@ Warning: This application can generate NSFW, gore, and other disturbing material
 -------------------------------------------------------------------------------------------------------------------
 To-Do List
 -------------------------------------------------------------------------------------------------------------------
-~~Fix crash after saving an image of 512x512 or higher resolution.~~
-~~fix requirements file~~
-create an exe
+~~Fix crash after saving an image of 512x512 or higher resolution.~~,
+~~fix requirements file~~,
+create an exe,
 Create an APK.
 
 Lower Priority / To Be Addressed Later (or Never):
 -------------------------------------------------------------------------------------------------------------------
-Add support for Stable Diffusion 3 and Flux when consumer hardware can support them (aware of SD 3.5 variants).
+Add support for Stable Diffusion 3 and Flux when consumer hardware can support them (aware of SD 3.5 variants),
 
-Allow users to paste numbers with commas in the custom resolution menu.
+Allow users to paste numbers with commas in the custom resolution menu,
 
-High memory usage at resolutions greater than 768x768
+High memory usage at resolutions greater than 768x768,
 
 Make it ios compatible.
 
