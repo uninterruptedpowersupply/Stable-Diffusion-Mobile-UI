@@ -34,7 +34,7 @@ Run the RUN_FIRST_TIME_ONLY_.bat file.
 
 Then, run run.bat.
 
-The application requires a peak VRAM usage of 2.5 GB depending on the resolution.
+The application requires a peak VRAM usage of 1.5 GB depending on the resolution.
 
 The Forge web UI was run with the following arguments:
 -------------------------------------------------------------------------------------------------------------------
