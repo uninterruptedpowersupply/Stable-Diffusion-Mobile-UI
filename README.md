@@ -8,7 +8,7 @@ Warning: This application can generate NSFW, gore, and other disturbing material
 To-Do List
 -------------------------------------------------------------------------------------------------------------------
 ~~Fix crash after saving an image of 512x512 or higher resolution.~~,
-~~fix requirements file~~,
+fix requirements file
 create an exe,
 Create an APK.
 
@@ -29,8 +29,11 @@ Make it ios compatible.
 How to Use
 -------------------------------------------------------------------------------------------------------------------
 (Windows Only; Might Work with Linux)
+
 Run the RUN_FIRST_TIME_ONLY_.bat file.
+
 Then, run run.bat.
+
 The application requires a peak VRAM usage of 2.5 GB depending on the resolution.
 
 The Forge web UI was run with the following arguments:
@@ -38,9 +41,13 @@ The Forge web UI was run with the following arguments:
 --api --pin-shared-memory --cuda-stream --cuda-malloc --xformers
 
 Prompt
+
 positive Trees, snow, evening, glow, bloom, sun set, yellow, orange, 4k, text "STABLE", "DIFFUSION", "MOBILE", "UI", clear tect
+
 negative Low-res
+
 seed 1
+
 steps 20
 
 ![Screenshot 2025-02-13 175704](https://github.com/user-attachments/assets/23dd1ace-6b52-4a82-a975-12db7c11e244)
