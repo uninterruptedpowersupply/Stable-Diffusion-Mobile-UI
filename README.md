@@ -8,7 +8,8 @@ Warning: This application can generate NSFW, gore, and other disturbing material
 To-Do List
 -------------------------------------------------------------------------------------------------------------------
 ~~Fix crash after saving an image of 512x512 or higher resolution.~~
-
+~~fix requirements file~~
+create an exe
 Create an APK.
 
 Lower Priority / To Be Addressed Later (or Never):
@@ -17,8 +18,9 @@ Add support for Stable Diffusion 3 and Flux when consumer hardware can support t
 
 Allow users to paste numbers with commas in the custom resolution menu.
 
-Make it ios compatible.
+High memory usage at resolutions greater than 768x768
 
+Make it ios compatible.
 
 How to Use
 -------------------------------------------------------------------------------------------------------------------
@@ -31,9 +33,14 @@ The Forge web UI was run with the following arguments:
 -------------------------------------------------------------------------------------------------------------------
 --api --pin-shared-memory --cuda-stream --cuda-malloc --xformers
 
+Prompt
+positive Trees, snow, evening, glow, bloom, sun set, yellow, orange, 4k, text "STABLE", "DIFFUSION", "MOBILE", "UI", clear tect
+negative Low-res
+seed 1
+steps 20
 
-![image](https://github.com/user-attachments/assets/c632e0d8-613d-41c8-bdb7-385208eb49f4)
-![Screenshot 2025-02-12 194938](https://github.com/user-attachments/assets/4bd0779c-f8d4-49a0-b0b6-d99981c41f1e)
+![Screenshot 2025-02-13 175704](https://github.com/user-attachments/assets/23dd1ace-6b52-4a82-a975-12db7c11e244)
+![Screenshot 2025-02-13 175742](https://github.com/user-attachments/assets/adce4986-c91d-4863-a3bb-e66c172e2649)
 ![image](https://github.com/user-attachments/assets/73180a6e-aa52-47f7-97d0-54a822a9de65)
 
 ----------------------------------------------------------------------------------------------------------------
