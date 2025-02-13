@@ -1,7 +1,7 @@
 #Stable-Diffusion-Mobile-UI
 -------------------------------------------------------------------------------------------------------------------
 
-Generate images using Stable Diffusion 1.5 with as little as 2.5 GB of VRAM.
+Generate images using Stable Diffusion 1.5 with as little as 1.5 GB of VRAM.
 -------------------------------------------------------------------------------------------------------------------
 Warning: This application can generate NSFW, gore, and other disturbing material. Please use with caution.
 -------------------------------------------------------------------------------------------------------------------
