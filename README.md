@@ -53,6 +53,7 @@ steps 20
 
 ![Screenshot 2025-02-14 153313](https://github.com/user-attachments/assets/57abd399-d495-4d23-95f0-a22514fca544)
 ![Screenshot 2025-02-14 153330](https://github.com/user-attachments/assets/7637e51d-b779-43cc-9dd3-122a8d13e65c)
+![Screenshot 2025-02-14 155632](https://github.com/user-attachments/assets/a98a1406-9458-4739-bf77-eb22b5440abb)
 ![Screenshot 2025-02-14 155637](https://github.com/user-attachments/assets/77ac6d17-40f5-4dc0-88cc-e24b10da8109)
 
 STABLE DIFFUSION MOBLE UI DOES NOT SUPPORT CUSTOM VAE
