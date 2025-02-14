@@ -9,7 +9,7 @@ To-Do List
 -------------------------------------------------------------------------------------------------------------------
 ~~Fix crash after saving an image of 512x512 or higher resolution.~~,
 ~~fix requirements file,~~
-~~Test SDXL,~~
+Fix SDXL,
 create an exe,
 Create an APK.
 
@@ -55,7 +55,7 @@ steps 20
 ![Screenshot 2025-02-14 153330](https://github.com/user-attachments/assets/7637e51d-b779-43cc-9dd3-122a8d13e65c)
 ![Screenshot 2025-02-14 155637](https://github.com/user-attachments/assets/77ac6d17-40f5-4dc0-88cc-e24b10da8109)
 
-STABLE DIFFUSION MOBLE UI DOES NOT SUPPORT CUSTOM VAE AND THE MODEL DOES NOT HAVE A PRE
+STABLE DIFFUSION MOBLE UI DOES NOT SUPPORT CUSTOM VAE
 
 ----------------------------------------------------------------------------------------------------------------
 Models used
