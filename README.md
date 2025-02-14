@@ -51,9 +51,9 @@ seed 1
 
 steps 20
 
-![Screenshot 2025-02-13 175704](https://github.com/user-attachments/assets/23dd1ace-6b52-4a82-a975-12db7c11e244)
-![Screenshot 2025-02-13 175742](https://github.com/user-attachments/assets/adce4986-c91d-4863-a3bb-e66c172e2649)
-![image](https://github.com/user-attachments/assets/73180a6e-aa52-47f7-97d0-54a822a9de65)
+![Screenshot 2025-02-14 153313](https://github.com/user-attachments/assets/57abd399-d495-4d23-95f0-a22514fca544)
+![Screenshot 2025-02-14 153330](https://github.com/user-attachments/assets/7637e51d-b779-43cc-9dd3-122a8d13e65c)
+![Screenshot 2025-02-14 155637](https://github.com/user-attachments/assets/77ac6d17-40f5-4dc0-88cc-e24b10da8109)
 
 STABLE DIFFUSION MOBLE UI DOES NOT SUPPORT CUSTOM VAE AND THE MODEL DOES NOT HAVE A PRE
 
@@ -62,6 +62,7 @@ Models used
 ----------------------------------------------------------------------------------------------------------------
 SD 1.5 - https://civitai.com/models/25694/epicrealism
 SDXL - https://civitai.com/models/833294?modelVersionId=1116447
+
 
 
 ----------------------------------------------------------------------------------------------------------------
