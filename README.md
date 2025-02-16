@@ -5,7 +5,7 @@ Generate images using Stable Diffusion 1.5 with as little as 1.5 GB of VRAM.
 -------------------------------------------------------------------------------------------------------------------
 Warning: This application can generate NSFW, gore, and other disturbing material. Please use with caution.
 -------------------------------------------------------------------------------------------------------------------
-To-Do List
+To-Do List:
 -------------------------------------------------------------------------------------------------------------------
 ~~Fix crash after saving an image of 512x512 or higher resolution.~~,
 ~~fix requirements file,~~
