@@ -15,15 +15,15 @@ Create an APK.
 
 Lower Priority / To Be Addressed Later (or Never):
 -------------------------------------------------------------------------------------------------------------------
+~~High memory usage at resolutions greater than 768x768~~,
+
 Add support for Stable Diffusion 3 and Flux when consumer hardware can support them (aware of SD 3.5 variants),
 
 Allow users to paste numbers with commas in the custom resolution menu,
 
 Add vae and lora support,
 
-fix the hight resource requiremnts of SDXL ( 7-6.7gb vram at 512x512 )
-
-High memory usage at resolutions greater than 768x768,
+fix the hight resource requiremnts of SDXL ( 5.5gb vram at 512x512 )
 
 Make it ios compatible.
 
