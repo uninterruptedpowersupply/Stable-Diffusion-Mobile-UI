@@ -51,12 +51,21 @@ seed 1
 
 steps 20
 
-![Screenshot 2025-02-14 153313](https://github.com/user-attachments/assets/57abd399-d495-4d23-95f0-a22514fca544)
-![Screenshot 2025-02-14 153330](https://github.com/user-attachments/assets/7637e51d-b779-43cc-9dd3-122a8d13e65c)
+![Screenshot 2025-04-08 111732](https://github.com/user-attachments/assets/1dda2294-1699-42d8-83d2-bb9425c41e61)
+![image](https://github.com/user-attachments/assets/0433644a-8112-442d-9736-131fb005abdc)
 ![Screenshot 2025-02-14 155632](https://github.com/user-attachments/assets/a98a1406-9458-4739-bf77-eb22b5440abb)
 ![Screenshot 2025-02-14 155637](https://github.com/user-attachments/assets/77ac6d17-40f5-4dc0-88cc-e24b10da8109)
+New collage mode
 
-STABLE DIFFUSION MOBLE UI DOES NOT SUPPORT CUSTOM VAE
+AT 1024X1024
+![Screenshot 2025-04-08 112036](https://github.com/user-attachments/assets/2e64bde2-d108-4087-99ba-d8a472be8d45)
+![image](https://github.com/user-attachments/assets/4c2cd82a-0f2a-4411-95b3-79ffa6b309d1)
+
+AT 128X128
+![Screenshot 2025-04-08 112257](https://github.com/user-attachments/assets/2aaa75d0-d7b4-46ff-8658-fe170c815853)
+![image](https://github.com/user-attachments/assets/5a531044-7d40-42c1-9c4e-f2bcb2df364c)
+
+STABLE DIFFUSION MOBLE UI DOES NOT SUPPORT CUSTOM VAE, TEXT ENCODERS OR LORA YET
 
 ----------------------------------------------------------------------------------------------------------------
 Models used
