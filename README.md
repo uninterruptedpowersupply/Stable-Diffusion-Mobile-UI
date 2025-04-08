@@ -1,7 +1,7 @@
 #Stable-Diffusion-Mobile-UI
 -------------------------------------------------------------------------------------------------------------------
 
-Generate images using Stable Diffusion 1.5 with as little as 1.5 GB of VRAM.
+Generate images using Stable Diffusion 1.5 with as little as 2.1 GB of VRAM.
 -------------------------------------------------------------------------------------------------------------------
 Warning: This application can generate NSFW, gore, and other disturbing material. Please use with caution.
 -------------------------------------------------------------------------------------------------------------------
@@ -15,7 +15,7 @@ Create an APK.
 
 Lower Priority / To Be Addressed Later (or Never):
 -------------------------------------------------------------------------------------------------------------------
-~~High memory usage at resolutions greater than 768x768~~,
+~~High memory usage at resolutions greater than 768x768~~,(2.5gb peek usage at 1024x1024)
 
 Add support for Stable Diffusion 3 and Flux when consumer hardware can support them (aware of SD 3.5 variants),
 
