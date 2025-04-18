@@ -23,7 +23,7 @@ Allow users to paste numbers with commas in the custom resolution menu,
 
 Add vae and lora support,
 
-fix the hight resource requiremnts of SDXL ( 5.5gb vram at 512x512 )
+fix the high resource requiremnts of SDXL ( 5.5gb vram at 512x512 )
 
 Make it ios compatible.
 
@@ -35,7 +35,7 @@ Run the RUN_FIRST_TIME_ONLY_.bat file.
 
 Then, run run.bat.
 
-The application requires a peak VRAM usage of 1.5 GB depending on the resolution.
+The application requires a peak VRAM usage of 2 GB depending on the resolution.
 
 The Forge web UI was run with the following arguments:
 -------------------------------------------------------------------------------------------------------------------
